@@ -1,4 +1,4 @@
 # first_demo
 This is my first repository
 <br>
-Auther - Hrishikesh Manjrekar
+Author - Hrishikesh Manjrekar
